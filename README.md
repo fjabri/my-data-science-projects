@@ -12,10 +12,10 @@
 
 | Project | Description | Models Used |
 |---------|-------------|-------------|
-| [📈 Time Series Forecasting](./Time_Series_Analysis.ipynb) | Predicting insurance premiums using time-series data | SARIMA, LSTM |
-| [🔍 Classification Model](./Classification_Model.ipynb) | Fraud detection in insurance | XGBoost, Random Forest |
-| [📊 Regression Model](./Regression_Model.ipynb) | Estimating claim costs | GAMs, Linear Regression |
-| [🤖 Deep Learning](./Deep_Learning_Model.ipynb) | Predicting claims using neural networks | CNN, LSTM |
+| [📈 Time Series Forecasting](./Time_Series_Analysis.ipynb) | SARIMA, LSTM, ARIMA, Exponential Smoothing |
+| [🔍 Classification Model](./Classification_Model.ipynb) | SVM, XGBoost, Random Forest, KNN, Logistic Regression, Decision Trees |
+| [📊 Regression Model](./Regression_Model.ipynb) | XGBoost, Linear Regression, Ridge, Lasso, ElasticNet |
+| [🤖 Deep Learning](./Deep_Learning_Model.ipynb) | CNN, LSTM, GANs, MLP |
 
 📌 **Each notebook is documented** with step-by-step explanations and code.
 
